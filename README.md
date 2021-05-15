@@ -1,2 +1,4 @@
-This is a blog. Please open it on https://yclawtech.github.io/. Thank you!
+# HELLO GUYS
+
+Welcome to my blog!
 
